@@ -23,11 +23,12 @@
 }
 
 .header {
+    width: 100%;
     position: relative;
 }
 
 .header img{
-    max-width: 100%;
+    width: 100%;
     height: auto;
     vertical-align: middle;
 }
